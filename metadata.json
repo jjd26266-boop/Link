@@ -1,0 +1,6 @@
+{
+  "name": "VideoHub - Fast HD Video Streaming",
+  "description": "Mobile-first dark-themed video streaming landing page with high-speed direct links, live user counters, and HD video playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
